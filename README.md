@@ -1,2 +1,0 @@
-# CashBook
- Java project

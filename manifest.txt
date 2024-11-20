@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: expense_income_tracker.Expense_Income_Tracker
+Class-Path: lib/barcodes-8.05.jar lib/bouncy-castle-adapter-8.0.5.jar lib/bouncy-castle-connector-8.0.5.jar lib/bouncy-castle-fips-adapter-8.0.5.jar lib/commons-8.0.5.jar lib/forms-8.0.5.jar lib/io-8.0.5.jar lib/jcommon-1.0.23.jar lib/jfreechart-1.0.19.jar lib/kernel-8.0.5.jar lib/layout-8.0.5.jar lib/logback-classic-1.5.9.jar lib/logback-core-1.5.9.jar lib/pdfa-8.0.5.jar lib/pdftest-8.0.5.jar lib/pdfua-8.0.5.jar lib/sign-8.0.5.jar lib/slf4j-api-2.0.9.jar lib/styles-xml-parser-8.0.5.jar lib/svg-8.0.5.jar
+
